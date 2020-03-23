@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'CoronaGo',
+      title: 'rattleplates',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -30,7 +30,7 @@ class _MyAppState extends State<MyApp> {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'CoronaGo'),
+      home: MyHomePage(title: 'rattleplates'),
     );
   }
 }

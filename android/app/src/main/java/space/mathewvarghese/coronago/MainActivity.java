@@ -1,4 +1,4 @@
-package space.mathewvarghese.coronago;
+package space.mathewvarghese.rattleplates;
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;

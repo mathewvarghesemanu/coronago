@@ -1,6 +1,6 @@
-# coronago
+# rattleplates
 
-coronago
+rattleplates
 
 ## Getting Started
 
